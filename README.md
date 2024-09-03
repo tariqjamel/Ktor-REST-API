@@ -29,9 +29,9 @@ This project is a REST API built using Kotlin and Ktor that allows users to perf
 
 
 ## Screenshot
-<img  align="left" src="postman_get.png" width="20%" height="20%">
-<img  align="left" src="postman_delete.png" width="20%" height="20%">
-<img  src="postman_post.png" width="20%" height="20%">
+<img  align="left" src="postman_get.png" width="40%" height="40%">
+<img  align="left" src="postman_delete.png" width="40%" height="40%">
+<img  src="postman_post.png" width="20%" height="40%">
 
 ## API Endpoints
 
@@ -65,7 +65,7 @@ You can test the API using tools like Postman or local browser. Each endpoint al
 
 ## Step-by-Step Guidance
 
-For detailed step-by-step guidance on how to create a REST API using Ktor, you can check out my [Medium article](LINK). This article will guide you through the process, from setting up your environment to implementing CRUD operations.
+For detailed step-by-step guidance on how to create a REST API using Ktor, you can check out my [Medium article](https://medium.com/@tariqjamel/creating-your-first-rest-api-with-ktor-a-step-by-step-tutorial-b4f6127e4d69). This article will guide you through the process, from setting up your environment to implementing CRUD operations.
 
 ## Contributing
 
