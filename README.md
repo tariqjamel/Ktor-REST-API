@@ -31,7 +31,7 @@ This project is a REST API built using Kotlin and Ktor that allows users to perf
 ## Screenshot
 <img  align="left" src="postman_get.png" width="60%" height="40%">
 <img  align="left" src="postman_delete.png" width="60%" height="40%">
-<img  align="left" src="postman_post.png" width="60%" height="40%">
+<img  src="postman_post.png" width="60%" height="40%">
 
 ## API Endpoints
 
