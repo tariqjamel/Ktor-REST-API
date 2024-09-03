@@ -27,12 +27,6 @@ This project is a REST API built using Kotlin and Ktor that allows users to perf
 
 - Run the project using the main class configured in your IDE.
 
-
-## Screenshot
-<img  align="left" src="postman_get.png" width="60%" height="40%">
-<img  align="left" src="postman_delete.png" width="60%" height="40%">
-<img  src="postman_post.png" width="60%" height="40%">
-
 ## API Endpoints
 
 ### 1. Get All Tasks
@@ -40,6 +34,8 @@ This project is a REST API built using Kotlin and Ktor that allows users to perf
 - **URL:** `/tasks`
 - **Method:** `GET`
 - **Description:** Retrieves a list of all tasks.
+
+<img  align="left" src="postman_get.png" width="60%" height="40%">
 
 ### 2. Add a Task
 
@@ -53,11 +49,14 @@ This project is a REST API built using Kotlin and Ktor that allows users to perf
     "description": "Task Description",
     "priority": "Low | Medium | High"
   }
+<img  src="postman_post.png" width="60%" height="40%">
+
 ### 3. Delete a Task
 
 - **URL:** `/tasks/{id}`
 - **Method:** `DELETE`
 - **Description:** Deletes a task by ID.
+<img  align="left" src="postman_delete.png" width="60%" height="40%">
 
 ## Testing the API
 
