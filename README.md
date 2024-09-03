@@ -35,7 +35,7 @@ This project is a REST API built using Kotlin and Ktor that allows users to perf
 - **Method:** `GET`
 - **Description:** Retrieves a list of all tasks.
 
-<img  align="left" src="postman_get.png" width="60%" height="40%">
+<img  src="postman_get.png" width="60%" height="40%">
 
 ### 2. Add a Task
 
@@ -56,7 +56,7 @@ This project is a REST API built using Kotlin and Ktor that allows users to perf
 - **URL:** `/tasks/{id}`
 - **Method:** `DELETE`
 - **Description:** Deletes a task by ID.
-<img  align="left" src="postman_delete.png" width="60%" height="40%">
+<img  src="postman_delete.png" width="60%" height="40%">
 
 ## Testing the API
 
